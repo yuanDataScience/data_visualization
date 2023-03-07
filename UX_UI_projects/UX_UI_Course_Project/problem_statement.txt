@@ -1,0 +1,2 @@
+Problem statement
+Little Lemon currently has no online reserve-a-table feature. The goal of this exercise/project is to design this service that allows users to reserve a table online from the Little Lemon app
